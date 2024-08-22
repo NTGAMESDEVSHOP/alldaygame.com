@@ -19,6 +19,7 @@
     margin-top: 10px; /* Add margin to the top of the table for spacing */
   }
   body {
+      background-color: #00000086;
       font-family: 'Arial', sans-serif;
   }
   .col-md-4 {
